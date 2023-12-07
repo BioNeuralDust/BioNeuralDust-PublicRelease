@@ -5,7 +5,7 @@ Main program to run Neuron Simulation
 
 Created on Thu Nov  3 20:26:07 2022
 
-@author: majawitter
+
 """
 
 from neuron import Neuron
