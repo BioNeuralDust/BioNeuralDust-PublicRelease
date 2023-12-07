@@ -7,7 +7,7 @@ Simulation of parameters is handled by the model classes
 
 Created on Thu Nov  3 17:22:18 2022
 
-@author: majawitter
+
 """
 
 from vpython import cylinder, vector, sphere, compound, ellipsoid, cone, color, curve, pi, cos, sin, dot, cross, shapes, paths, extrusion, local_light
