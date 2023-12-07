@@ -5,7 +5,7 @@ Implementation of the Izhikevich Neuron Model
 
 Created on Thu Nov  3 14:10:44 2022
 
-@author: majawitter
+
 """
 import math
 import matplotlib.pyplot as plt
