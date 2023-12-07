@@ -9,7 +9,7 @@ Unsuccessful & incomplete, but left here if needed for future reference
 
 Created on Sun Nov 13 19:46:16 2022
 
-@author: majawitter
+
 """
 
 import math
