@@ -5,7 +5,7 @@ Implementation of the Williams et Al Four-State Model
 
 Created on Sun Nov  6 17:33:32 2022
 
-@author: majawitter
+
 """
 
 import math
