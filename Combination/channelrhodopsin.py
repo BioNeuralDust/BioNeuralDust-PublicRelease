@@ -7,7 +7,7 @@ Relies on ChR2 model class for current logic
 
 Created on Thu Nov  3 20:23:44 2022
 
-@author: majawitter
+
 """
 
 import math
