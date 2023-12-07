@@ -1,7 +1,7 @@
 # Simulation Framework for the Bio Neural Dust System
 
 
-This honour's project implements a simulation framework of the BNDS using Python. 
+This project implements a simulation framework of the BNDS using Python. 
 
 ![Alt text](misc/bioneural_dust_system_visualization.png)
 
